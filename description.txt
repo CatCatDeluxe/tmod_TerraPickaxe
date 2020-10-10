@@ -1,0 +1,16 @@
+This mod adds a Terra Blade pickaxe, but it's a Post-Moonlord
+pickaxe and you can destroy whole sections of your world in mere seconds.
+
+Sprites and coding (so basically everything) by CatCatDeluxe (me)
+Click the mod homepage button to see a short video on my channel of the mod in action!
+
+This mod includes:
+- The Terra Former (I got the name from other mods)
+- A fully balanced crafting tree (actually idk if it's balanced)
+- A secret weapon only obtainable through cheat sheet, use it if you dare...
+
+Updates:
+Version 1.0.1:
+- Enabled UseTurn for all pickaxes, so you can turn while using them.
+- Buffed the Terra Former's pickaxe power from 250% to 500%.
+- Added axe power to the Terra Former, so it now has 500% axe power.

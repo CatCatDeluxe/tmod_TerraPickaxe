@@ -1,0 +1,4 @@
+displayName = the most op and destructive pickaxe
+author = CatCatDeluxe
+homepage = https://youtu.be/pOWHbv7Q2vU
+version = 1.0.1
