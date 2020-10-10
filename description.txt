@@ -10,6 +10,8 @@ This mod includes:
 - A secret weapon only obtainable through cheat sheet, use it if you dare...
 
 Updates:
+Version 1.0.2:
+- Added an icon to the mod and mod browser.
 Version 1.0.1:
 - Enabled UseTurn for all pickaxes, so you can turn while using them.
 - Buffed the Terra Former's pickaxe power from 250% to 500%.
